@@ -2,4 +2,4 @@
 
 ## TIME TO MAKE YOUR HANDS DIRTY WITH HTML CODE....
 
-![Alt text](file:///E:/MyRepositories/HTML/Pictures/html5.jpg)
+![Alt text](https://raw.githubusercontent.com/zohaibshahzadkhan/HTML_PRACTISE_SESSION/master/html5.jpg)
