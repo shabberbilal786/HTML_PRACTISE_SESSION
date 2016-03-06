@@ -2,4 +2,4 @@
 
 ## TIME TO MAKE YOUR HANDS DIRTY WITH HTML CODE....
 
-![ALT HTML5_IMAGE](E:\MyRepositories\HTML\Pictures)
+![ALT HTML5_IMAGE](//E://MyRepositories//HTML\Pictures)
