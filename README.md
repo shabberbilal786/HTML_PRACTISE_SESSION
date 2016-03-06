@@ -2,4 +2,4 @@
 
 ## TIME TO MAKE YOUR HANDS DIRTY WITH HTML CODE....
 
-![Alt text](E:\MyRepositories\HTML\Pictures\html5.jpg)
+![Alt text](file:///E:/MyRepositories/HTML/Pictures/html5.jpg)
